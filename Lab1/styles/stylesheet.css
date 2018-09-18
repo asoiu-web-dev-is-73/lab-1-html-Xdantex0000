@@ -1,0 +1,45 @@
+div.main_menu{
+height: 10em;
+margin: 0;
+position: absolute;
+top: 40%;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%) }
+
+h1 {
+color: #F8F9FB;
+}
+
+li {
+font-size: 30px;
+}
+
+a {
+color: white;
+}
+
+a:link {
+text-decoration: none;
+}
+
+a:visited {
+text-decoration: none;
+}
+
+a:active {
+text-decoration: none;
+}
+
+a:hover {
+text-deoration: underline;
+color: white;
+}
+
+body {
+background-image: url(../Images/Background.jpg)
+background-position: center; 
+height: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+}
