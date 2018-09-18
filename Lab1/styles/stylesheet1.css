@@ -26,6 +26,10 @@ div.header {
 	float: left;
 }
 
+img {
+margin 0;
+}
+
 div.info {
 height: 10em;
 margin: 0;
